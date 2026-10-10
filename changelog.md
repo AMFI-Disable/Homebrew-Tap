@@ -4,6 +4,14 @@ All notable changes, formula upgrades, and maintenance releases for Homebrew-Tap
 
 ---
 
+## [1.0.4] - Brew-Ghost Binary Aliasing & Branding Alignment
+
+### Changed
+- **Dual Binary Aliasing**: Installed executable as `Brew-Ghost` with `brew-ghost` symlink for backwards compatibility.
+- **Test Block Modernization**: Updated formula test assertion to verify `Brew-Ghost` binary output.
+
+---
+
 ## [1.0.3] - Brew-Ghost Formula Upgrade
 
 ### Added

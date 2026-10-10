@@ -8,12 +8,13 @@ class BrewGhost < Formula
   depends_on "python@3.11"
 
   def install
-    # Install the ghost.py engine as the executable `brew-ghost` in Homebrew's global binary path
-    bin.install "ghost.py" => "brew-ghost"
+    # Install the ghost.py engine as the executable `Brew-Ghost` and symlink `brew-ghost`
+    bin.install "ghost.py" => "Brew-Ghost"
+    bin.install_symlink bin/"Brew-Ghost" => "brew-ghost"
   end
 
   test do
     # Verify the executable is installed and handles arguments correctly
-    assert_match "brew-ghost - A behavioral cleanup tool for Homebrew", shell_output("#{bin}/brew-ghost --help")
+    assert_match /A behavioral cleanup tool for Homebrew/i, shell_output("#{bin}/Brew-Ghost --help")
   end
 end
