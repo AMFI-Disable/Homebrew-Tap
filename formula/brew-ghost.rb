@@ -1,6 +1,6 @@
 class BrewGhost < Formula
   desc "Behavioral cleanup tool for Homebrew that purges idle packages"
-  homepage "https://github.com/amfi-disable/Brew-Ghost"
+  homepage "https://github.com/AMFI-Disable/Brew-Ghost"
   url "https://github.com/AMFI-Disable/Brew-Ghost/archive/refs/tags/v1.1.1.tar.gz"
   sha256 "a6476e2c3fa923902ce5a25f29af315cd236fb23c9e50e979bb116def2580d16"
   license "MIT"
