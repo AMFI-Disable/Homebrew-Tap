@@ -1,14 +1,20 @@
-# 🍺 Homebrew-Tap
+<div align="center">
 
-Official Homebrew Tap repository hosting formulas and casks published by [AMFI-Disable](https://github.com/AMFI-Disable).
+# Homebrew-Tap
+
+Official Homebrew Tap hosting formulas and casks by [AMFI-Disable](https://github.com/AMFI-Disable).
 
 [![Tap: Active](https://img.shields.io/badge/Tap-AMFI--Disable%2Ftap-blue.svg?style=flat-square&logo=homebrew)](https://brew.sh)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](license)
 [![Changelog: Maintained](https://img.shields.io/badge/Changelog-Maintained-success.svg?style=flat-square)](changelog.md)
 
+[Changelog](changelog.md) · [Security Policy](security.md) · [MIT License](license)
+
+</div>
+
 ---
 
-## 📦 How To Install Software From This Tap
+## How To Install Software From This Tap
 
 Add this tap to your local Homebrew installation:
 
@@ -25,7 +31,7 @@ brew install brew-ghost
 
 ---
 
-## 🔄 Keeping Software Updated
+## Keeping Software Updated
 
 To upgrade installed packages to the latest release:
 
@@ -36,6 +42,6 @@ brew upgrade brew-ghost
 
 ---
 
-## 📄 Tap License
+## Tap License
 
 Licensed under the [MIT License](license). Copyright (c) 2026 AMFI-Disable.
