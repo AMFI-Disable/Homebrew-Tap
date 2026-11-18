@@ -20,9 +20,9 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Validate Formula Syntax
+      - name: Validate Formula And Cask Syntax
         run: |
-          for file in formula/*.rb; do
+          for file in formula/*.rb casks/*.rb; do
             [ -f "$file" ] || continue
             ruby -c "$file"
             echo "Validated syntax: $file"

@@ -25,7 +25,11 @@ brew tap AMFI-Disable/tap
 Then install the desired packages:
 
 ```bash
-# Install CLI utilities
+# Install macOS desktop applications (Casks)
+brew install --cask juicer
+brew install --cask brewstore
+
+# Install CLI utilities (Formulae)
 brew install brew-ghost
 ```
 
@@ -37,6 +41,7 @@ To upgrade installed packages to the latest release:
 
 ```bash
 brew update
+brew upgrade --cask juicer brewstore
 brew upgrade brew-ghost
 ```
 

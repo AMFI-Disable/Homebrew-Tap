@@ -4,6 +4,15 @@ All notable changes, formula upgrades, and maintenance releases for Homebrew-Tap
 
 ---
 
+## [1.1.0] - Consolidated Cask & Formula Catalog
+
+### Added
+
+- **Consolidated Casks**: Added `casks/juicer.rb` and `casks/brewstore.rb` into the central `AMFI-Disable/tap` repository, unifying macOS app casks and CLI formulae in one tap.
+- **CI Cask Validation**: Updated `.github/workflows/ci.yml` to syntax-check `casks/*.rb` alongside `formula/*.rb`.
+
+---
+
 ## [1.0.4] - Brew-Ghost Binary Aliasing & Branding Alignment
 
 ### Changed
