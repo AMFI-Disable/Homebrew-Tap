@@ -14,6 +14,18 @@ Official Homebrew Tap hosting formulas and casks by [AMFI-Disable](https://githu
 
 ---
 
+## Star History
+
+<a href="https://www.star-history.com/?type=date&repos=amfi-disable%2Fhomebrew-tap">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=amfi-disable%2Fhomebrew-tap&type=date&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=amfi-disable%2Fhomebrew-tap&type=date&legend=top-left" />
+    <img alt="AMFI-Disable/Homebrew-Tap Star History Chart" src="https://api.star-history.com/chart?repos=amfi-disable%2Fhomebrew-tap&type=date&legend=top-left" />
+  </picture>
+</a>
+
+---
+
 ## How To Install Software From This Tap
 
 Add this tap to your local Homebrew installation:
@@ -50,15 +62,3 @@ brew upgrade brew-ghost
 ## Tap License
 
 Licensed under the [MIT License](license). Copyright (c) 2026 AMFI-Disable.
-
----
-
-## Star History
-
-<a href="https://www.star-history.com/#AMFI-Disable/Homebrew-Tap&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=AMFI-Disable/Homebrew-Tap&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=AMFI-Disable/Homebrew-Tap&type=Date" />
-    <img alt="AMFI-Disable/Homebrew-Tap Star History Chart" src="https://api.star-history.com/svg?repos=AMFI-Disable/Homebrew-Tap&type=Date" />
-  </picture>
-</a>
