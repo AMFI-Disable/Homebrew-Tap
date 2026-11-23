@@ -4,6 +4,14 @@ All notable changes, formula upgrades, and maintenance releases for Homebrew-Tap
 
 ---
 
+## [Unreleased]
+
+### Changed
+
+- Restored the Star History chart section in `readme.md`.
+
+---
+
 ## [1.1.0] - Consolidated Cask & Formula Catalog
 
 ### Added
