@@ -6,6 +6,10 @@ All notable changes, formula upgrades, and maintenance releases for Homebrew-Tap
 
 ## [Unreleased]
 
+### Fixed
+
+- Updated `casks/brewstore.rb` to use valid `postflight` `system_command` syntax and standardized the `casks/juicer.rb` release archive URL to `juicer.zip`.
+
 ### Changed
 
 - Restored the Star History chart section in `readme.md`.
