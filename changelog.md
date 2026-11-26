@@ -12,6 +12,8 @@ All notable changes, formula upgrades, and maintenance releases for Homebrew-Tap
 
 ### Changed
 
+- Added Simplified Chinese usage and contribution guides and bilingual reporting and review templates.
+
 - Restored the Star History chart section in `readme.md`.
 
 ---

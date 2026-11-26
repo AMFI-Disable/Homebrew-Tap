@@ -8,7 +8,7 @@ Official Homebrew Tap hosting formulas and casks by [AMFI-Disable](https://githu
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](license)
 [![Changelog: Maintained](https://img.shields.io/badge/Changelog-Maintained-success.svg?style=flat-square)](changelog.md)
 
-[Changelog](changelog.md) · [Security Policy](security.md) · [MIT License](license)
+[中文文档](readme.zh-cn.md) · [Contributing](contributing.md) · [Changelog](changelog.md) · [Security Policy](security.md) · [MIT License](license)
 
 </div>
 
