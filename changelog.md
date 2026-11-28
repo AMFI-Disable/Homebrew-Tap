@@ -6,6 +6,8 @@ All notable changes, formula upgrades, and maintenance releases for Homebrew-Tap
 
 ## [Unreleased]
 
+- Matched the Juicer cask checksum to its configured 1.1.3 release archive. The prior checksum belonged to the other ZIP asset in that release.
+
 ### Fixed
 
 - Updated `casks/brewstore.rb` to use valid `postflight` `system_command` syntax and standardized the `casks/juicer.rb` release archive URL to `juicer.zip`.
